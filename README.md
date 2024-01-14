@@ -2,7 +2,7 @@
 
 - 🔭 I’m a Java and JavaScript developer
 - 💼 I've been coding for over 4 years
-- 🎮 Currently working on Plutonium!
+- 🎮 I work with system administration a lot
 
 
 ### 💻 Languages and Tools:
