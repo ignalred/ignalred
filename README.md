@@ -2,7 +2,7 @@
 
 - 🔭 I’m a Java and JavaScript developer
 - 💼 I've been coding for over 4 years
-- 🎮 I work with system administration a lot
+- 🎮 I work with system administration
 
 
 ### 💻 Languages and Tools:
